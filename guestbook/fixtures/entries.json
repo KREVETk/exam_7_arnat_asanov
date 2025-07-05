@@ -1,0 +1,74 @@
+[
+{
+  "model": "guestbook.guestentry",
+  "pk": 1,
+  "fields": {
+    "name": "Testov Test",
+    "email": "test@email.com",
+    "text": "testtesttesttesttesttesttesttesttesttesttesttesttesttestteest",
+    "created_at": "2025-07-05T10:27:53.491Z",
+    "updated_at": "2025-07-05T10:56:51.489Z",
+    "status": "active"
+  }
+},
+{
+  "model": "guestbook.guestentry",
+  "pk": 2,
+  "fields": {
+    "name": "Rustam",
+    "email": "email@ljkl.com",
+    "text": "1234",
+    "created_at": "2025-07-05T11:00:07.941Z",
+    "updated_at": "2025-07-05T11:00:07.941Z",
+    "status": "active"
+  }
+},
+{
+  "model": "guestbook.guestentry",
+  "pk": 3,
+  "fields": {
+    "name": "apple",
+    "email": "asdasd@gmail.com",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. \r\nUt enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \r\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. \r\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. \r\nUt enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \r\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. \r\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit",
+    "created_at": "2025-07-05T11:02:46.937Z",
+    "updated_at": "2025-07-05T11:26:19.196Z",
+    "status": "blocked"
+  }
+},
+{
+  "model": "guestbook.guestentry",
+  "pk": 4,
+  "fields": {
+    "name": "1111",
+    "email": "asanovarnat2209@gmail.com",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. \r\nUt enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \r\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. \r\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "created_at": "2025-07-05T11:11:42.430Z",
+    "updated_at": "2025-07-05T11:26:14.977Z",
+    "status": "blocked"
+  }
+},
+{
+  "model": "guestbook.guestentry",
+  "pk": 5,
+  "fields": {
+    "name": "222",
+    "email": "asanovarnat2209@gmail.com",
+    "text": "qwerutuyqweryiuweyruioq",
+    "created_at": "2025-07-05T11:13:55.474Z",
+    "updated_at": "2025-07-05T11:13:55.474Z",
+    "status": "active"
+  }
+},
+{
+  "model": "guestbook.guestentry",
+  "pk": 6,
+  "fields": {
+    "name": "time",
+    "email": "time@gmail.com",
+    "text": "qriweuefpauoieurwoiweuroiwueriwueroiwueroiwueroiwueoriu",
+    "created_at": "2025-07-05T11:14:22.182Z",
+    "updated_at": "2025-07-05T11:14:22.182Z",
+    "status": "active"
+  }
+}
+]
