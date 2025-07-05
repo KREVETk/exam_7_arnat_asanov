@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+
+{% block title %}Гостевая книга{% endblock %}
+
+{% block content %}
+<h1>Гостевая книга</h1>
+
+{% for entry in entries %}
+  <div class="card mb-3">
+    <div class="card-header d-flex justify-content-between">
+      <strong>{{ entry.name }}</strong> ({{ entry.email }})
+      <small>{{ entry.created_at|date:"d.m.Y H:i" }}</small>
+    </div>
+    <div class="card-body">
+      <p class="card-text">{{ entry.text }}</p>
+    </div>
+  </div>
+{% empty %}
+  <p>Нет записей в гостевой книге.</p>
+{% endfor %}
+{% endblock %}
